@@ -1,0 +1,16 @@
+product,quantity,price,region
+Laptop,5,1200,North
+Phone,8,800,South
+Tablet,3,500,East
+Laptop,7,1200,West
+Phone,12,800,North
+Monitor,6,300,South
+Keyboard,15,50,East
+Mouse,20,25,West
+Laptop,4,1200,South
+Phone,9,800,East
+Tablet,5,500,North
+Monitor,8,300,West
+Keyboard,10,50,South
+Mouse,18,25,North
+Laptop,6,1200,East
